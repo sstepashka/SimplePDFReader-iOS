@@ -1,0 +1,3 @@
+[submodule "muPDF"]
+	path = muPDF
+	url = http://mupdf.com/repos/mupdf.git
